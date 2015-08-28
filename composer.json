@@ -1,0 +1,41 @@
+{
+    "name": "bramdevries/oauth-slack",
+    "description": "Slack OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bram Devries",
+            "email": "bram@madewithlove.be",
+            "homepage": "https://github.com/bramdevries"
+        }
+    ],
+    "keywords": [
+        "oauth",
+        "oauth2",
+        "client",
+        "authorization",
+        "authorisation",
+        "slack"
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "league/oauth2-client": "~1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.8",
+        "mockery/mockery": "^0.9.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bramdevries\\Oauth\\Client\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Bramdevries\\Oauth\\Client\\": "spec"
+        }
+    },
+    "scripts": {
+        "test": "phpunit"
+    }
+}
