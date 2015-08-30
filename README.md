@@ -2,7 +2,7 @@
 [![Latest Version](https://img.shields.io/github/release/bramdevries/oauth2-slack.svg?style=flat-square)](https://github.com/bramdevries/oauth2-slack/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://img.shields.io/travis/bramdevries/oauth2-slack/master.svg?style=flat-square)](https://travis-ci.org/bramdevries/oauth2-slack)
-[![Total Downloads](https://img.shields.io/packagist/dt/league/oauth2-slack.svg?style=flat-square)](https://packagist.org/packages/league/oauth2-github)
+[![Total Downloads](https://img.shields.io/packagist/dt/league/oauth2-slack.svg?style=flat-square)](https://packagist.org/packages/league/oauth2-slack)
 
 This package provides Slack OAuth 2.0 support for the PHP League's [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client).
 
