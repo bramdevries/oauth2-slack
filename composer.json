@@ -1,5 +1,5 @@
 {
-    "name": "bramdevries/oauth-slack",
+    "name": "bramdevries/oauth2-slack",
     "description": "Slack OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
     "license": "MIT",
     "authors": [
