@@ -22,8 +22,8 @@ Usage is the same as The League's OAuth client, using `\League\OAuth2\Client\Pro
 
 ```php
 $provider = new League\OAuth2\Client\Provider\Slack([
-    'clientId'          => '{github-client-id}',
-    'clientSecret'      => '{github-client-secret}',
+    'clientId'          => '{slack-client-id}',
+    'clientSecret'      => '{slack-client-secret}',
     'redirectUri'       => 'https://example.com/callback-url',
 ]);
 
